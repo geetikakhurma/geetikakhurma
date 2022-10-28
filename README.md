@@ -30,6 +30,7 @@ const details = {
   values: ["Good UI/UX", "Performance", "Product Focus"],
   enjoys: ['Reading Books, Spirituality & Yoga, 'Working Out', 'Cooking & Baking', 'Art'],
   portfolioLink: 'https://geetikakhurma.netlify.app/',
+  username: 'geetikakhurma'
 }
 
 (function fullTimePositionAvailable(hire) {
@@ -38,7 +39,7 @@ if (lookingToHire && hire === 'geetika') {
     return 'Success';
   } 
   else throw new Error('You should hire @geetika')
-})();
+})(geetikakhurma.username));
 
 ```
 
