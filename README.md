@@ -19,11 +19,11 @@
     </summary>
 
 ```javascript
-  
-
+ 
 const details = {
   fullName: 'Geetika Khurma',
   availableForHire: true,
+  experience: "1.5+ years in Acceture plc"
   education: "UnderGraduate",
   degree: "Computer Science Engineering",
   codesIn: [ "React","Javascript", "Java", "HTML", "CSS"],
