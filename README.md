@@ -48,13 +48,13 @@ Fun fact:
 // Which came first: the chicken or the egg?
 
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-```
+
 Output: ["🐔", "🐣", "🐥", "🥚"];
 
 
   </details>
 
-
+```
 
 <!--
 **geetika.khurma/geetika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
