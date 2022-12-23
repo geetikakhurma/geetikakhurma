@@ -4,7 +4,7 @@
 </h1>
 
 <a target="_blank" href="https://geetikakhurma.netlify.app/">
-<img src="https://img.shields.io/badge/-Portfolio-141414?style=for-the-badge&logo=Bitrise&logoColor=white&link=https://geetikakhurma.netlify.app/" alt="Portfolio Badge">
+<img src="https://img.shields.io/badge/-Portfolio-141414?style=for-the-badge&logo=Bitrise&logoColor=white&link=https://geetikurma.netlify.app/" alt="Portfolio Badge">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/geetika-khurma-427214160/">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geetika-khurma-427214160/" alt="Linkedin Badge">
