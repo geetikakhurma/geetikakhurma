@@ -3,7 +3,7 @@
 <h1 align="left"><img src="https://github.com/geetikakhurma/geetikakhurma/blob/main/wave.gif" width="30px"><strong> Hey! I'm <a href="https://geetikakhurma.netlify.app/">Geetika Khurma</a></strong>
 </h1>
 
-<a target="_blank" href="https://geetikakhurma.netlify.app/">
+<a target="_blank" href="https://geetma.netlify.app/">
 <img src="https://img.shields.io/badge/-Portfolio-141414?style=for-the-badge&logo=Bitrise&logoColor=white&link=https://geetikurma.netlify.app/" alt="Portfolio Badge">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/geetika-khurma-427214160/">
