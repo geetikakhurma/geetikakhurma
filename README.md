@@ -1,6 +1,6 @@
 <img align="right" src="https://giphy.com/static/img/zoomies-small.gif" height="160px" width="auto">
 
-<h1 align="left"><img src="https://github.com/geetikakhurma/geetikakhurma/blob/main/wave.gif" width="30px"><strong> Hey! I'm Geetika Khurma</strong>
+<h1 align="left"><img src="https://github.com/geetikakhurma/geetikakhurma/blob/main/wave.gif" width="30px"><strong> Hey! I'm<br/> Geetika Khurma</strong>
 </h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/geetika-khurma-427214160/">
