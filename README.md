@@ -14,6 +14,9 @@
     <summary>
     <strong>Click & expand to learn more about me! :)</strong>
     </summary>
+  <p>
+  Note: This GitHub account is not actively used, as my current company works on GitLab with a company-managed ID.
+    </p>
 
 ```javascript
  
